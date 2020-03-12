@@ -27,3 +27,8 @@ Bench:
 Tests:
 
     ok      leetcode/938_range_sum_of_BST   1.009s  coverage: 85.7% of statements
+
+Submission:
+
+    Runtime: 88 ms, faster than 72.41% of Go online submissions for Range Sum of BST.
+    Memory Usage: 7.8 MB, less than 100.00% of Go online submissions for Range Sum of BST.
