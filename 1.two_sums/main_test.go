@@ -1,7 +1,7 @@
 package main
 
 import (
-	"leetcode/utils"
+	"github.com/wenkaler/leetcode/utils"
 	"testing"
 )
 
